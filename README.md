@@ -1,5 +1,7 @@
 # Ansible Role: firewalld
 
+![Ansible Galaxy](https://github.com/0x022b/ansible-role-firewalld/workflows/Ansible%20Galaxy/badge.svg)
+
 Ansible role that configures firewalld package and service.
 
 ## Requirements
